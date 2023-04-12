@@ -3,6 +3,7 @@
     </a>
     Sonic Frontiers Tools Installer
 </h1>
+
 ## have a little logo this time V1.4 (i hope that worked)
 - I think i added the air boost
 
