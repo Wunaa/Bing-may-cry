@@ -1,4 +1,2 @@
 add raw/character/playercommon.pac
-add raw/text/text_common_en.pac
-add raw/ui/ui_common.pac
 add mod.ini
