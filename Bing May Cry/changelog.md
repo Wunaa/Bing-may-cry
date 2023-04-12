@@ -1,7 +1,7 @@
 
 
 
-## have a little logo this time V1.4 (i hope that worked)     Luna will cry trying to make this
+##     Luna will cry trying to make this V1.4 (i hope that worked)  
 - I think i added the air boost
 
 ## Little funny in this V1.3
