@@ -1,1 +1,2 @@
+add raw/character/playercommon.pac
 add mod.ini
