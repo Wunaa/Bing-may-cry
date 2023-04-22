@@ -1,4 +1,4 @@
-delete raw/text/Bing Antivirus work.url
+
 add raw/ui/ui_gamemodetitle_en.pac
 add BossSelect.hmm
 add mod.ini
