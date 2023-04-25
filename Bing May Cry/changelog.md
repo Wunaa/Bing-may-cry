@@ -1,3 +1,6 @@
+## Acording to Local Neco-Arc Fan#1434 i have to make the big fishing funnier
+- it now says "One fish, Two fish, Red fish, Blue fish, Black fish, Blue fish, Old fish, New fish."
+
 ## Funny discord status now
 - funny discord status
 
