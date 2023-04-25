@@ -4,6 +4,4 @@ add DiscordFrontiers.dll
 add DiscordFrontiers.ini
 add DiscordFrontiers.json
 add discord-rpc.dll
-add raw/ui/ui_gamemodetitle_en.pac
-add BossSelect.hmm
 add mod.ini
