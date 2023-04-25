@@ -1,3 +1,6 @@
+## Funny discord status now
+- funny discord status
+
 ## I messed something up in V1.4.5 so heres V1.4.6
 - added the code i forgot
 
