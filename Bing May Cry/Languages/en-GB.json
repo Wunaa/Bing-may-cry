@@ -1,0 +1,21 @@
+{
+  "Game": "Sonic the Hedgehog Frontiers",
+  "StatusMainMenu": "They might be AFk",
+  "StatusExploring": "Running around without an idea",
+  "StatusFishing": "Big",
+  "StatusHacking": "Getting your discord token",
+  "StatusCredits": "Credits",
+  "LocationKronos": "The island of Kronos",
+  "LocationAres": "This is Ares Island",
+  "LocationChaos": "You do not learn about chaos emeralds",
+  "LocationRhea": "The island of Kronos 2",
+  "LocationOuranos": "Kronos but lost",
+  "LocationCyberSpace": "Reused Levels",
+  "LocationTraining": "hit the attack button place",
+  "LocationUnknown": "Unknown",
+  "BossGiganto": "vs. Big Guy",
+  "BossWyvern": "vs. Pokemon",
+  "BossKnight": "vs. Stabby",
+  "BossSupreme": "vs. Supreme $10000",
+  "BossTheEnd": "vs. The End of the show"
+}
